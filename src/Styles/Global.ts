@@ -18,4 +18,8 @@ export const GlobalStyle = createGlobalStyle`
 	  vertical-align: baseline;
     width: 100vw;
   }
+
+  header {
+    background: --preto;
+  }
 `;

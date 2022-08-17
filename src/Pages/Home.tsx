@@ -5,6 +5,7 @@ import image from "../Assets/bg-pic.jpg";
 
 import {
   HomeHeader,
+  // HomeHeaderInner,
   HomeLogo,
   HomeImage,
   HomeSection,
@@ -20,9 +21,10 @@ import {
 function Home() {
   return (
     <>
-      {/* <HomeHeader>
-        <HomeLogo src={logo} alt="logo" />
-      </HomeHeader> */}
+      <HomeHeader> 
+        <HomeLogo src={logo} />
+        Teste
+      </HomeHeader>
       <body>
         <HomeSection>
           <HomeImage src={image} />

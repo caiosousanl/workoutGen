@@ -7,15 +7,17 @@ export const ContainerCad = styled.div`
   }
 `;
 export const HomeHeader = styled.header`
-  height: 200px;
+  background-color: var(--preto);
+  opacity: 80%;
   position: fixed;
-  z-index: 1;
+  z-index: 999;
 `;
 
 export const HomeLogo = styled.img`
-  width: 100px;
-  height: 200px;
-  background-color: white;
+  cursor: pointer;
+  height: 60px;
+  padding-left: 20px;
+  width: 40px;
 `;
 export const HomeSection = styled.section`
   background-color: var(--preto);
@@ -119,3 +121,24 @@ export const WorkoutButtonSpan = styled.span`
     background: transparent;
   }
 `;
+
+// export const HomeHeaderInner = styled.div`
+//     position: absolute;
+//     top: 50%;
+//     left: 50%;
+//     opacity: 0;
+//     z-index: 10;
+//     transform: translateX(-50%) translateY(-50%);
+//     animation: fade-in 0.75s 0.25s ease-in forwards;
+//     h1 {
+//       margin: 0;
+//       font-size: 4em;
+//       line-height: 1.2em;
+//     }
+//     p {
+//       margin: 0;
+//       font-size: 1.4em;
+//       font-style: italic;
+//       font-family: serif;
+//     }
+// `;
