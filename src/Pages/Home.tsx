@@ -1,12 +1,9 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 
-import logo from "../Assets/logo.svg";
 import image from "../Assets/bg-pic.jpg";
 
 import {
-  HomeHeader,
-  // HomeHeaderInner,
-  HomeLogo,
   HomeImage,
   HomeSection,
   HomeTitle,
@@ -18,13 +15,14 @@ import {
   WorkoutButtonSpan,
 } from "../Styles/Home";
 
-function Home() {
+const Home = () => {
+  const navigate = useNavigate();
+  const treinos = ["AB", "ABC", "ABCD"];
+
+  const handleClick = (treino: string) => navigate(`treino/${treino}`);
+
   return (
     <>
-      <HomeHeader> 
-        <HomeLogo src={logo} />
-        Teste
-      </HomeHeader>
       <body>
         <HomeSection>
           <HomeImage src={image} />
@@ -34,20 +32,16 @@ function Home() {
         <SelectWorkoutSection>
           <SelectWorkoutTitle>Escolha um modelo de treino</SelectWorkoutTitle>
           <WorkoutButtonsWrapper>
-            <WorkoutButton>
-              <WorkoutButtonSpan>Treino AB</WorkoutButtonSpan>
-            </WorkoutButton>
-            <WorkoutButton>
-              <WorkoutButtonSpan>Treino ABC</WorkoutButtonSpan>
-            </WorkoutButton>
-            <WorkoutButton>
-              <WorkoutButtonSpan>Treino ABCD</WorkoutButtonSpan>
-            </WorkoutButton>
+            {treinos.map((treino) => (
+              <WorkoutButton onClick={() => handleClick(treino)}>
+                <WorkoutButtonSpan>{treino}</WorkoutButtonSpan>
+              </WorkoutButton>
+            ))}
           </WorkoutButtonsWrapper>
         </SelectWorkoutSection>
       </body>
     </>
   );
-}
+};
 
 export default Home;

@@ -1,0 +1,63 @@
+[
+  [
+    "segunda",
+    [
+      "A1",
+      [
+        ["Supino inclinado com halter", "3", "6 a 8"],
+        ["barra fixa com pegada pronada", "3", "6 a 8"],
+        ["Desenvolvimento com barra", "3", "6 a 8"],
+        ["Encolhimento com barra", "3", "10 a 12"],
+        ["Supino reto com barra", "3", "6 a 8"],
+        ["Remada curvada", "3", "6 a 8"],
+        ["Tríceps corda", "3", "10 a 15"],
+        ["Rosca direta", "3", "10 a 15"]
+      ]
+    ]
+  ],
+  [
+    "terca",
+    [
+      "B1",
+      [
+        ["Agachamento livre", "4", "6 a 8"],
+        ["Leg press", "4", "6 a 8"],
+        ["Mesa flexora", "3", "10 a 15"],
+        ["Elevação de gêmeos em pé", "3", "10 a 15"],
+        ["Elevação de gêmeos sentado", "3", "10 a 15"]
+      ]
+    ]
+  ],
+  ["quarta", "descanso"],
+  [
+    "quinta",
+    [
+      "A2",
+      [
+        ["Supino reto com halteres", "3", "10 a 12"],
+        ["Pulley", "3", "10 a 12"],
+        ["Desenvolvimento com halteres", "3", "10 a 12"],
+        ["Remada unilateral (cavalinho)", "3", "10 a 12"],
+        ["Supino inclinado com barra", "3", "10 a 12"],
+        ["Encolhimento com halteres", "3", "10 a 12"],
+        ["Rosca francesa", "3", "10 a 15"],
+        ["Rosca alternada", "3", "10 a 15"]
+      ]
+    ]
+  ],
+  [
+    "sexta",
+    [
+      "B2",
+      [
+        ["Agachamento hack", "4", "10 a 12"],
+        ["Stiff", "4", "6 a 8"],
+        ["Cadeira flexora", "3", "10 a 15"],
+        ["Elevação de gêmeos sentado", "3", "15 a 20"],
+        ["Elevação de gêmeos em pé", "3", "15 a 20"]
+      ]
+    ]
+  ],
+  ["sabado", "descanso"],
+  ["domingo", "descanso"]
+]

@@ -1,4 +1,4 @@
-import { createGlobalStyle } from "styled-components";
+import styled, { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
   root, *, html, body {
@@ -22,4 +22,18 @@ export const GlobalStyle = createGlobalStyle`
   header {
     background: --preto;
   }
+`;
+
+export const Header = styled.header`
+  background-color: var(--preto);
+  opacity: 80%;
+  position: fixed;
+  z-index: 999;
+`;
+
+export const Logo = styled.img`
+  cursor: pointer;
+  height: 60px;
+  padding-left: 20px;
+  width: 40px;
 `;

@@ -6,19 +6,7 @@ export const ContainerCad = styled.div`
   @media (max-width: 500px) {
   }
 `;
-export const HomeHeader = styled.header`
-  background-color: var(--preto);
-  opacity: 80%;
-  position: fixed;
-  z-index: 999;
-`;
 
-export const HomeLogo = styled.img`
-  cursor: pointer;
-  height: 60px;
-  padding-left: 20px;
-  width: 40px;
-`;
 export const HomeSection = styled.section`
   background-color: var(--preto);
   max-width: 100%;
