@@ -1,12 +1,5 @@
 import styled from "styled-components";
 
-export const ContainerCad = styled.div`
-  width: 100%;
-  height: 130vh;
-  @media (max-width: 500px) {
-  }
-`;
-
 export const HomeSection = styled.section`
   background-color: var(--preto);
   max-width: 100%;

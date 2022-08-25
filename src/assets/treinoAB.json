@@ -4,14 +4,14 @@
     [
       "A1",
       [
-        ["Supino inclinado com halter", "3", "6 a 8"],
-        ["barra fixa com pegada pronada", "3", "6 a 8"],
-        ["Desenvolvimento com barra", "3", "6 a 8"],
-        ["Encolhimento com barra", "3", "10 a 12"],
-        ["Supino reto com barra", "3", "6 a 8"],
-        ["Remada curvada", "3", "6 a 8"],
-        ["Tríceps corda", "3", "10 a 15"],
-        ["Rosca direta", "3", "10 a 15"]
+        ["Supino inclinado com halter", "3", "6 a 8","https://us.123rf.com/450wm/lioputra/lioputra2112/lioputra211200756/179748088-stock-vector-man-doing-incline-dumbbell-bench-press-exercise-flat-vector-illustration-isolated-on-white-backgroun.jpg?ver=6"],
+        ["Barra fixa com pegada pronada", "3", "6 a 8","https://us.123rf.com/450wm/lioputra/lioputra2106/lioputra210600094/170386434-stock-vector-man-doing-pull-ups-exercise-flat-vector-illustration-isolated-on-white-background.jpg?ver=6"],
+        ["Desenvolvimento com barra", "3", "6 a 8","https://us.123rf.com/450wm/lioputra/lioputra2206/lioputra220600144/187453581-stock-vector-man-doing-seated-barbell-shoulder-press-exercise-flat-vector-illustration-isolated-on-white-backgrou.jpg?ver=6"],
+        ["Encolhimento com barra", "3", "10 a 12","https://us.123rf.com/450wm/lioputra/lioputra2206/lioputra220600121/187713437-stock-vector-man-doing-barbell-shrugs-back-view-exercise-flat-vector-illustration-isolated-on-white-background.jpg?ver=6"],
+        ["Supino reto com barra", "3", "6 a 8", "https://us.123rf.com/450wm/lioputra/lioputra2010/lioputra201000168/157886718-stock-vector-man-doing-barbell-bench-press-chest-press-flat-vector-illustration-isolated-on-different-layers.jpg?ver=6"],
+        ["Remada curvada", "3", "6 a 8", "https://us.123rf.com/450wm/lioputra/lioputra2010/lioputra201000078/157093331-stock-vector-the-athlete-performs-the-bent-over-rows-exercise-with-barbell-in-a-minimalistic-line-style-gym-chara.jpg?ver=6"],
+        ["Tríceps corda", "3", "10 a 15", "https://us.123rf.com/450wm/lioputra/lioputra2101/lioputra210100008/161430356-stock-vector-man-doing-cable-tricep-pull-down-exercise-flat-vector-illustration-isolated-on-white-background.jpg?ver=6"],
+        ["Rosca direta", "3", "10 a 15", "https://us.123rf.com/450wm/lioputra/lioputra2011/lioputra201100043/158681566-stock-vector-man-doing-standing-dumbbell-bicep-curls-flat-vector-illustration-isolated-on-different-layers-workou.jpg?ver=6"]
       ]
     ]
   ],
@@ -20,11 +20,11 @@
     [
       "B1",
       [
-        ["Agachamento livre", "4", "6 a 8"],
-        ["Leg press", "4", "6 a 8"],
-        ["Mesa flexora", "3", "10 a 15"],
-        ["Elevação de gêmeos em pé", "3", "10 a 15"],
-        ["Elevação de gêmeos sentado", "3", "10 a 15"]
+        ["Agachamento livre", "4", "6 a 8", "https://us.123rf.com/450wm/lioputra/lioputra2207/lioputra220700067/189149422-stock-vector-man-doing-squat-with-barbell-exercise-flat-vector-illustration-isolated-on-white-background.jpg?ver=6"],
+        ["Leg press", "4", "6 a 8", "https://us.123rf.com/450wm/lioputra/lioputra2206/lioputra220600163/187713651-stock-vector-man-doing-leg-press-exercise-on-machine-flat-vector-illustration-isolated-on-white-background.jpg?ver=6"],
+        ["Mesa flexora", "3", "10 a 15", "https://us.123rf.com/450wm/lioputra/lioputra2111/lioputra211100003/176576496-stock-vector-man-doing-lying-leg-curls-exercise-flat-vector-illustration-isolated-on-white-background.jpg?ver=6"],
+        ["Elevação de gêmeos em pé", "3", "10 a 15", "https://us.123rf.com/450wm/lioputra/lioputra2011/lioputra201100046/158621586-stock-vector-man-doing-standing-dumbbell-calf-raises-exercise-flat-vector-illustration-isolated-on-white-backgrou.jpg?ver=6"],
+        ["Mesa extensora", "3", "10 a 15","https://us.123rf.com/450wm/lioputra/lioputra2206/lioputra220600169/187713751-stock-vector-man-doing-leg-extension-on-machine-exercise-flat-vector-illustration-isolated-on-white-background.jpg?ver=6"]
       ]
     ]
   ],
@@ -54,7 +54,7 @@
         ["Stiff", "4", "6 a 8"],
         ["Cadeira flexora", "3", "10 a 15"],
         ["Elevação de gêmeos sentado", "3", "15 a 20"],
-        ["Elevação de gêmeos em pé", "3", "15 a 20"]
+        ["Mesa extensora", "3", "10 a 15","https://us.123rf.com/450wm/lioputra/lioputra2206/lioputra220600169/187713751-stock-vector-man-doing-leg-extension-on-machine-exercise-flat-vector-illustration-isolated-on-white-background.jpg?ver=6"]
       ]
     ]
   ],
