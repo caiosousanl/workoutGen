@@ -34,14 +34,14 @@
     [
       "A2",
       [
-        ["Supino reto com halteres", "3", "10 a 12"],
-        ["Pulley", "3", "10 a 12"],
-        ["Desenvolvimento com halteres", "3", "10 a 12"],
-        ["Remada unilateral (cavalinho)", "3", "10 a 12"],
-        ["Supino inclinado com barra", "3", "10 a 12"],
-        ["Encolhimento com halteres", "3", "10 a 12"],
-        ["Rosca francesa", "3", "10 a 15"],
-        ["Rosca alternada", "3", "10 a 15"]
+        ["Supino reto com halteres", "3", "10 a 12", "https://us.123rf.com/450wm/lioputra/lioputra2010/lioputra201000172/157886722-stock-vector-man-doing-dumbbell-flat-bench-press-chest-exercise-flat-vector-illustration.jpg?ver=6"],
+        ["Pulley", "3", "10 a 12", "https://us.123rf.com/450wm/lioputra/lioputra2010/lioputra201000176/157886726-stock-vector-low-upward-cable-pulley-crossover-chest-flyes-flat-vector-illustration-isolated-on-layers.jpg?ver=6"],
+        ["Desenvolvimento com halteres", "3", "10 a 12", "https://us.123rf.com/450wm/lioputra/lioputra2010/lioputra201000135/157597900-stock-vector-dumbbell-overhead-press-top-body-workout-upper-body-exercises-flat-vector-illustration-sitting-on-be.jpg?ver=6"],
+        ["Remada cavalinho", "3", "10 a 12", "https://us.123rf.com/450wm/lioputra/lioputra2010/lioputra201000134/157597899-stock-vector-bent-over-row-top-body-workout-upper-body-exercises-flat-vector-illustration-bent-over-t-bar-row.jpg?ver=6"],
+        ["Supino inclinado com barra", "3", "10 a 12", "https://us.123rf.com/450wm/lioputra/lioputra2011/lioputra201100085/158979432-stock-vector-incline-barbell-bench-press-exercise-flat-vector-illustration-isolated-on-white-background-workout-c.jpg?ver=6"],
+        ["Encolhimento com halteres", "3", "10 a 12", "https://us.123rf.com/450wm/lioputra/lioputra2106/lioputra210600042/169820630-stock-vector-man-doing-dumbbell-shrugs-exercise-flat-vector-illustration-isolated-on-white-background.jpg?ver=6"],
+        ["Rosca francesa", "3", "10 a 15","https://us.123rf.com/450wm/lioputra/lioputra2206/lioputra220600155/187522462-stock-vector-man-doing-dumbbell-overhead-triceps-extension-exercise-flat-vector-illustration-isolated-on-white-ba.jpg?ver=6"],
+        ["Rosca alternada", "3", "10 a 15", "https://us.123rf.com/450wm/lioputra/lioputra2206/lioputra220600114/187231831-stock-vector-man-doing-alternating-dumbbell-curl-flat-vector-illustration-isolated-on-different-layers-workout-ch.jpg?ver=6"]
       ]
     ]
   ],
@@ -50,10 +50,10 @@
     [
       "B2",
       [
-        ["Agachamento hack", "4", "10 a 12"],
-        ["Stiff", "4", "6 a 8"],
-        ["Cadeira flexora", "3", "10 a 15"],
-        ["Elevação de gêmeos sentado", "3", "15 a 20"],
+        ["Agachamento hack", "4", "10 a 12","https://us.123rf.com/450wm/lioputra/lioputra2206/lioputra220600175/187721776-stock-vector-man-doing-hack-squat-exercise-flat-vector-illustration-isolated-on-white-background.jpg?ver=6"],
+        ["Stiff", "4", "6 a 8","https://us.123rf.com/450wm/lioputra/lioputra2206/lioputra220600170/187868681-stock-vector-man-doing-barbell-stiff-leg-deadlift-exercise-flat-vector-illustration-isolated-on-white-background.jpg?ver=6"],
+        ["Cadeira flexora", "3", "10 a 15", "https://us.123rf.com/450wm/lioputra/lioputra2111/lioputra211100003/176576496-stock-vector-man-doing-lying-leg-curls-exercise-flat-vector-illustration-isolated-on-white-background.jpg?ver=6"],
+        ["Elevação de gêmeos em pé", "3", "10 a 15", "https://us.123rf.com/450wm/lioputra/lioputra2011/lioputra201100046/158621586-stock-vector-man-doing-standing-dumbbell-calf-raises-exercise-flat-vector-illustration-isolated-on-white-backgrou.jpg?ver=6"],
         ["Mesa extensora", "3", "10 a 15","https://us.123rf.com/450wm/lioputra/lioputra2206/lioputra220600169/187713751-stock-vector-man-doing-leg-extension-on-machine-exercise-flat-vector-illustration-isolated-on-white-background.jpg?ver=6"]
       ]
     ]
